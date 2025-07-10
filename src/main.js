@@ -17,7 +17,7 @@ document.querySelector('#app').innerHTML = `
   <div class="absolute bottom-0 left-0 p-4 md:p-8 w-full">
     <div class="flex flex-col md:flex-row md:justify-between items-end w-full">
       <p class="text-white text-xs md:text-sm w-full text-center md:w-auto order-2 md:order-1 mb-4 md:mb-0 landscape:hidden lg:landscape:block">
-        Made with 🎃 by <a href="https://iwatchhorror.com" target="_blank" title="I Watch Horror" class="text-yellow-400 hover:underline">I Watch Horror</a> | Grab the code on <a href="#" class="text-yellow-400 hover:underline">Github</a>
+        Made with 🎃 by <a href="https://iwatchhorror.com" target="_blank" title="I Watch Horror" class="text-yellow-400 hover:underline">I Watch Horror</a> | Grab the code on <a href="https://github.com/activatedbrain/whenishalloween" target="_blank" class="text-yellow-400 hover:underline">Github</a>
       </p>
       <a href="https://iwatchhorror.com" target="_blank" class="order-1 md:order-2 mb-4 md:mb-0 w-16 mx-auto md:mx-0 md:w-auto" title="Powered by I Watch Horror">
         <img src="${iwh}" alt="I Watch Horror">
